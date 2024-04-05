@@ -7,7 +7,7 @@
 Generate enough pratice material at the right level of math learning.
 
 ### list practice-sheet
-single digit addition, subtraction, multiplication, division
+single digit addition, subtraction, multiplication, division\n
 long multiplication
 
 #### prompt enginnering, LLM, python
